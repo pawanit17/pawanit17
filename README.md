@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I am Pavan Dittakavi, an engineer from India 👋
 
+I enjoy exploring latest technologies and like learning and problem solving. 
 <!--
 **pawanit17/pawanit17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
