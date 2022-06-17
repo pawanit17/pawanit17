@@ -1,5 +1,5 @@
 ## Hi there, I am Pavan Dittakavi, an engineer from India 👋
-[![GitHub vermakhushboo](https://img.shields.io/github/followers/pawanit17?label=follow&style=social)](https://github.com/pawanit17)
+[![GitHub pavandittakavi](https://img.shields.io/github/followers/pawanit17?label=follow&style=social)](https://github.com/pawanit17)
 [![Linkedin: Pavan Dittakavi](https://img.shields.io/badge/-Pavan%20Dittakavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dittakavipavankumar//)](https://www.linkedin.com/in/dittakavipavankumar/)
 
 
