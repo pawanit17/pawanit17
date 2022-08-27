@@ -5,7 +5,8 @@
 
 I enjoy exploring latest technologies and like learning and problem solving. I am knowledgeable in AWS, Microservices, Kafka, SpringBoot, Cassandra among others.
 
-![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/42272776/187018053-6756d5f9-fba3-4f1f-9990-baeb931de5af.png)
+![aws-certified-cloud-practitioner_96](https://www.credly.com/badges/3d5ffbac-5ba4-4709-b7c1-4dd9c4c41fa6/linked_in_profile)
+![aws-certified-solutions-architect-associate_96](https://www.credly.com/badges/48a8523b-f334-4f87-949b-3bc044f2238c/linked_in_profile)
 
 
 Let's stay in touch: 
