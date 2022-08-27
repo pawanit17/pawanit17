@@ -3,7 +3,10 @@
 [![Linkedin: Pavan Dittakavi](https://img.shields.io/badge/-Pavan%20Dittakavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dittakavipavankumar//)](https://www.linkedin.com/in/dittakavipavankumar/)
 
 
-I enjoy exploring latest technologies and like learning and problem solving.
+I enjoy exploring latest technologies and like learning and problem solving. I am knowledgeable in AWS, Microservices, Kafka, SpringBoot, Cassandra among others.
+
+![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/42272776/187018053-6756d5f9-fba3-4f1f-9990-baeb931de5af.png)
+
 
 Let's stay in touch: 
 - linkedIn - https://www.linkedin.com/in/dittakavipavankumar/
