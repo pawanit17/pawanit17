@@ -5,9 +5,8 @@
 
 I enjoy exploring latest technologies and like learning and problem solving. I am knowledgeable in AWS, Microservices, Kafka, SpringBoot, Cassandra among others.
 
-![aws-certified-cloud-practitioner_96](https://www.credly.com/badges/3d5ffbac-5ba4-4709-b7c1-4dd9c4c41fa6/linked_in_profile)
-![aws-certified-solutions-architect-associate_96](https://www.credly.com/badges/48a8523b-f334-4f87-949b-3bc044f2238c/linked_in_profile)
-
+![aws-certified-solutions-architect-associate_96](https://user-images.githubusercontent.com/42272776/187019052-ee57b6d5-67f3-4c51-b0e1-03d2eb665110.png)
+![aws-certified-cloud-practitioner_96](https://user-images.githubusercontent.com/42272776/187019037-35268ca5-85aa-4bd1-a245-1cac759a880b.png)
 
 Let's stay in touch: 
 - linkedIn - https://www.linkedin.com/in/dittakavipavankumar/
